@@ -23,6 +23,7 @@ display: grid;
 }
 .img-fluid{
   border-image: transparent;
+  margin-top: 100px;
 }
 
     
